@@ -3,13 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 import { Link } from 'react-router-dom'
 
-
+//changes here blah blah blah
 class App extends Component {
   render() {
     return (
-    
       <div className="App " style={{textAlign:"left"}}>
-        <div className="row">
+      <div className="row">
           <div className="col-md-8 col-md-offset-2">
           <br /> <br /> 
           <ul className="nav nav-tabs">
