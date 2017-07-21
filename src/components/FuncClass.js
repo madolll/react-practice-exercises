@@ -8,7 +8,7 @@ const FunClass =()=> (
 <h4> Turn all the presentational components into functional ones </h4>
    
 <pre>
- {`
+ `
    var user = {     
     name='Tyler McGinnis'
     username='tylermcginnis'
