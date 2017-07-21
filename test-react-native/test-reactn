@@ -1,0 +1,7 @@
+Update note: This tutorial has been updated to React Native 0.34 by Tom Elliot. The original tutorial was written by iOS Team member Colin Eberhardt.
+In this React Native Tutorial you’ll learn about a framework for building native iOS and Android applications from Facebook, based on the same principals behind their hugely popular React Javascript Framework for building declarative user interfaces.
+Over the years there have been many frameworks using JavaScript to create iOS applications (such as PhoneGap or Titanium), so what makes React Native special?
+(Unlike PhoneGap) with React Native your application logic is written and runs in JavaScript, whereas your application UI is fully native; therefore you have none of the compromises typically associated with HTML5 UI.
+Additionally (unlike Titanium), React introduces a novel, radical and highly functional approach to constructing user interfaces. In brief, the application UI is simply expressed as a function of the current application state.
+The key point with React Native is that it aims to primarily bring the power of the React programming model to mobile app development. It is not aiming to be a cross platform, write-once run-anywhere, tool. It is aiming to be learn-once write-anywhere. An important distinction to make. 
+This tutorial only covers iOS, but once you’ve learned the concepts here you could port that knowledge into creating an Android app very quickly.
